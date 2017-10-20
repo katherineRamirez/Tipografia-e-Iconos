@@ -1,0 +1,94 @@
+*{
+	margin: 0px;
+	padding: 0;
+}
+
+h4,h6,p{
+	text-align: center;
+}
+h4,h6{
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.fa{
+	font-size: 50px;
+	margin-left: 80px;
+}
+h4{
+	margin-top: 30px;
+}
+div#uno:hover{
+	background: DarkGray;
+	color: #000;
+}
+
+div#dos:hover{
+	background: DarkGray;
+	color: #000;
+}
+
+div#tres:hover{
+	background: DarkGray;
+	color: #000;
+}
+
+div#cuatro:hover{
+	background: DarkGray;
+	color: #000;
+}
+
+div#cinco:hover{
+	background: DarkGray;
+	color: #000;
+}
+
+#uno{
+	background: LightGrey;
+	width: 220px;
+	height: 350px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+#dos{
+	background: LightGrey;
+	width: 220px;
+	height: 350px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 8px;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+#tres{
+	background: LightGrey;
+	width: 220px;
+	height: 350px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 8px;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+#cuatro{
+	background: LightGrey;
+	width: 220px;
+	height: 350px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 8px;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+#cinco{
+	background: LightGrey;
+	width: 220px;
+	height: 350px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 8px;
+	font-family: 'Titillium Web', sans-serif;
+}
+
